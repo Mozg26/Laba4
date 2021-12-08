@@ -1,81 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aab836c4-df3f-4b2a-91e2-9cffe76dd73f" name="Changes" comment="New">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencsv.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/allclasses-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/allpackages-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/com/company/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/com/company/Person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/com/company/Subdivision.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/com/company/package-summary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/com/company/package-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/element-list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/help-doc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index-files/index-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/jquery-ui.overrides.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/legal/COPYRIGHT" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/legal/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/legal/jquery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/legal/jqueryUI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/member-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/module-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/overview-tree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/package-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/resources/glass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/resources/x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_glass_65_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script-dir/jquery-ui.structure.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/tag-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Documetation/type-search-index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/foreign_names.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-text-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/junit-4.13.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opencsv-4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mockito_all.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laba4/Laba4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CSVparser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -158,11 +99,24 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -174,9 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CSVparserTest.fileRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CSVparserTest" />
+      <option name="METHOD_NAME" value="fileRead" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CSVparserTest.fileRead" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638891421061</updated>
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <created>1638894516258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638894516258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +180,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New" />

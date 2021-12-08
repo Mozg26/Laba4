@@ -96,14 +96,14 @@ public class Person {
      * @param title Person subdivision name
      * @param id_subd Person subdivision id
      */
-    Person(String id, String name, String gender, String salary, String birthDate, String title, int id_subd)
+    Person(String id, String name, String gender, String salary, String birthDate, String title_subd, int id_subd)
     {
         this.id = id;
         this.name = name;
         this.gender = gender;
         this.salary = salary;
         this.birthDate = birthDate;
-        subd = new Subdivision(title, id_subd);
+        subd = new Subdivision(title_subd, id_subd);
     }
 
     /**
